@@ -29,7 +29,7 @@ void printArray(int arr[], int n)
         cout << arr[i] << " ";
     cout << endl;
 }
-//SWAP FUNCTION FOR BUBBLE SORT
+//SWAP FUNCTION FOR BUBBLE SORT.
 void swap(int *xp, int *yp)
 {
     int temp = *xp;
